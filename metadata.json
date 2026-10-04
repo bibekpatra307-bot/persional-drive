@@ -1,0 +1,7 @@
+{
+  "name": "Private Cloud - Personal Google Drive Portal",
+  "description": "A secure, password-protected personal cloud portal to access, view, stream, and download your Google Drive files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
